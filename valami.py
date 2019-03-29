@@ -6,6 +6,7 @@ for i in asd:
 
 if True:
     print("igen")
+    print("Kalman")
 elif asd == 6:
     pass
 =======
