@@ -2,6 +2,8 @@ asd = 4
 
 for i in asd:
     print("Nem")
+    pass
+    
 
 if True:
     print("igen")
