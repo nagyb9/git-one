@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asd = 4
 
 for i in asd:
@@ -7,7 +6,6 @@ for i in asd:
 if True:
     print("igen")
     print("")
+    print("yiis")
 elif asd == 6:
     pass
-=======
->>>>>>> parent of 1183394... created if
